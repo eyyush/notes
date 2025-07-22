@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes English</title>
-    <link>//localhost:1313/</link>
+    <link>https://notes.vxcircle.org/</link>
     <description>This is a place where i post my stories, ideas, opinions and analysis on various subjects of life.</description>
     <generator>Hugo 0.148.1</generator>
-    <language>en</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://notes.vxcircle.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
