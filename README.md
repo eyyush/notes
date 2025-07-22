@@ -1,2 +1,0 @@
-# notes
-blog website source
