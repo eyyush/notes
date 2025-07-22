@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://notes.vxcircle.org/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://notes.vxcircle.org/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://notes.vxcircle.org/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://notes.vxcircle.org/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://notes.vxcircle.org/article-template-how-to/</loc>
+    <loc>http://localhost:1313/article-template-how-to/</loc>
   </url><url>
-    <loc>https://notes.vxcircle.org/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
-    <loc>https://notes.vxcircle.org/authors/ayushraj/</loc>
+    <loc>http://localhost:1313/authors/ayushraj/</loc>
   </url><url>
-    <loc>https://notes.vxcircle.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://notes.vxcircle.org/contributors/</loc>
+    <loc>http://localhost:1313/contributors/</loc>
   </url><url>
-    <loc>https://notes.vxcircle.org/feeds/</loc>
+    <loc>http://localhost:1313/feeds/</loc>
   </url><url>
-    <loc>https://notes.vxcircle.org/languages/</loc>
+    <loc>http://localhost:1313/languages/</loc>
   </url><url>
-    <loc>https://notes.vxcircle.org/authors/marie-verdeil/</loc>
+    <loc>http://localhost:1313/authors/marie-verdeil/</loc>
   </url><url>
-    <loc>https://notes.vxcircle.org/404/</loc>
+    <loc>http://localhost:1313/404/</loc>
   </url><url>
-    <loc>https://notes.vxcircle.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
